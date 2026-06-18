@@ -1,15 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&background=128CCF00&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Priyanshu+Kumar" alt="Typing SVG" />
+</p>
+<h3 align="center">SDE-1</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Full+Stack+Developer;Java+Developer+1;Competitive+Programmer;Passionate+About+Coding" alt="Typing SVG" />
+</h2>
 
-
-
-# 💫 About Me:
- Full Stack Developer |Java Specialists | Education
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-kumar-390709322?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@Priyanshukumar_PT) 
-
-# 💻 Tech Stack:
+<h1 align="center">Connect with me:</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-390709322?/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu kumar" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@www.youtube.com/@Priyanshukumar_PT" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshukumar" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+ 
 
 ## 🚀 Languages and Tools
 
