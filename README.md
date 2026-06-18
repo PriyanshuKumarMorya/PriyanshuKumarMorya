@@ -14,6 +14,13 @@
 
 | Languages | Frameworks | Databases | IDEs | Tools | OS |
 |----------|------------|-----------|------|-------|----|
+| <img src="https://skillicons.dev/icons?i=java" /> | <img src="https://skillicons.dev/icons?i=spring" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=idea" /> | <img src="https://skillicons.dev/icons?i=github" /> | <img src="https://skillicons.dev/icons?i=windows" /> |
+
+
+## 🚀 Languages and Tools
+
+| Languages | Frameworks | Databases | IDEs | Tools | OS |
+|----------|------------|-----------|------|-------|----|
 | <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" /> | <img src="https://skillicons.dev/icons?i=react,redux,spring,nodejs,bootstrap,sass" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" /> | <img src="https://skillicons.dev/icons?i=git,github,docker" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" /> |
  
 
