@@ -10,19 +10,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-kumar-390709322?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@Priyanshukumar_PT) 
 
 # 💻 Tech Stack:
-## 🚀 Languages and Tools
-
-| Languages | Frameworks | Databases | IDEs | Tools | OS |
-|----------|------------|-----------|------|-------|----|
-| <img src="https://skillicons.dev/icons?i=java,python,cpp" /> | <img src="https://skillicons.dev/icons?i=spring" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=idea,vscode" /> | <img src="https://skillicons.dev/icons?i=github" /> | <img src="https://skillicons.dev/icons?i=windows" /> |
-
 
 ## 🚀 Languages and Tools
 
 | Languages | Frameworks | Databases | IDEs | Tools | OS |
 |----------|------------|-----------|------|-------|----|
-| <img src="https://skillicons.dev/icons?i=java" /> | <img src="https://skillicons.dev/icons?i=spring" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=idea" /> | <img src="https://skillicons.dev/icons?i=github" /> | <img src="https://skillicons.dev/icons?i=windows" /> |
-| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=nodejs" /> |  |  |  |  |
+| <img src="https://skillicons.dev/icons?i=java,python,cpp" /> | <img src="https://skillicons.dev/icons?i=spring" /> | <img src="https://skillicons.dev/icons?i=mongodb" /> | <img src="https://skillicons.dev/icons?i=idea" /> | <img src="https://skillicons.dev/icons?i=github" /> | <img src="https://skillicons.dev/icons?i=windows" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=nodejs" /> | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=vscode" /> |  |  |
 
 
  
