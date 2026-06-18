@@ -17,6 +17,14 @@
 | <img src="https://skillicons.dev/icons?i=java,python,cpp" /> | <img src="https://skillicons.dev/icons?i=spring" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=idea,vscode" /> | <img src="https://skillicons.dev/icons?i=github" /> | <img src="https://skillicons.dev/icons?i=windows" /> |
 
 
+## 🚀 Languages and Tools
+
+| Languages | Frameworks | Databases | IDEs | Tools | OS |
+|----------|------------|-----------|------|-------|----|
+| <img src="https://skillicons.dev/icons?i=java" /> | <img src="https://skillicons.dev/icons?i=spring" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=idea" /> | <img src="https://skillicons.dev/icons?i=github" /> | <img src="https://skillicons.dev/icons?i=windows" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=nodejs" /> |  |  |  |  |
+
+
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=PriyanshuKumarMorya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
