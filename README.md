@@ -12,14 +12,10 @@
 # 💻 Tech Stack:
 ## 🚀 Languages and Tools
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" /> |
-| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=react,redux,spring,nodejs,bootstrap,sass" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
-| **IDEs & Editors** | <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker" /> |
-| **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" /> |
+| Languages | Frameworks | Databases | IDEs | Tools | OS |
+|----------|------------|-----------|------|-------|----|
+| <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" /> | <img src="https://skillicons.dev/icons?i=react,redux,spring,nodejs,bootstrap,sass" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" /> | <img src="https://skillicons.dev/icons?i=git,github,docker" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" /> |
+ 
 
 
 
