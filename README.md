@@ -10,23 +10,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-kumar-390709322?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@Priyanshukumar_PT) 
 
 # 💻 Tech Stack:
- ## 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,html,css)](https://skillicons.dev)
+## 🚀 Languages and Tools
 
-## 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,html,css,react,redux,bootstrap,sass,spring,nodejs,mongodb,mysql,git,github,docker,vscode,idea,eclipse,linux,ubuntu,windows)](https://skillicons.dev)
 
-## ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs)](https://skillicons.dev)
-
-## 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
-
-## 🛠️ Tools & IDEs
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,eclipse)](https://skillicons.dev)
-
-## 🖥️ Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=PriyanshuKumarMorya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=PriyanshuKumarMorya&theme=dark&hide_border=false)<br/>
