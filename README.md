@@ -12,7 +12,16 @@
 # 💻 Tech Stack:
 ## 🚀 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,html,css,react,redux,bootstrap,sass,spring,nodejs,mongodb,mysql,git,github,docker,vscode,idea,eclipse,linux,ubuntu,windows)](https://skillicons.dev)
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" /> |
+| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=react,redux,spring,nodejs,bootstrap,sass" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
+| **IDEs & Editors** | <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker" /> |
+| **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" /> |
+
+
 
  
 # 📊 GitHub Stats:
